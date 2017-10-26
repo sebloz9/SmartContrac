@@ -1,0 +1,25 @@
+{
+  "name": "smartcontrac",
+  "version": "1.0.0",
+  "description": "Un simple contrato inteligente usando Solidity",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sebloz9/SmartContrac.git)"
+  },
+  "keywords": [
+    "smart",
+    "contract",
+    "solidity",
+    "ethereum",
+    "person"
+  ],
+  "author": "Sebloz",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
